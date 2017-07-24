@@ -1,0 +1,23 @@
+{
+  "name": "growk",
+  "version": "1.0.0",
+  "description": "Growth Hacking Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ash-au@github.com/ash-au/growk.git"
+  },
+  "keywords": [
+    "\"Growth",
+    "Hacking\""
+  ],
+  "author": "Ashish Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ash-au/growk/issues"
+  },
+  "homepage": "https://github.com/ash-au/growk#readme"
+}
